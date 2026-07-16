@@ -1,6 +1,6 @@
-# Tecorigin WAIC 大赛
+# Tecorigin KernelSwift 算子创新大赛
 
-本项目为 WAIC 大赛提供支持，包含以下内容：
+本项目为KernelSwift 算子创新大赛提供支持，包含以下内容：
 
 ## 模型仓库
 
