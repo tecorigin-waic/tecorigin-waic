@@ -12,4 +12,4 @@
 
 ## 文档
 
-- [模型适配指南](./模型适配指南.md)
+- [模型适配指南](https://github.com/Tecorigin/tecovllm-modelzoo/blob/waic/doc/%E6%A8%A1%E5%9E%8B%E9%80%82%E9%85%8D%E6%8C%87%E5%8D%97.md)
